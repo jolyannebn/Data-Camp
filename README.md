@@ -11,6 +11,7 @@ We restrict the following RAMP Challenge presentation to Myers Briggs Type Indic
 If this subject and the model give good prediction results it could be interesting to extend this idea to another domain or to answer another type of question such as: prevent employee burnout, determine psychological profile of people who can be radicalized which can be useful to prevent terrorist attacks, determine psychological profile of patients in psychiatric hospitals.
 
 Group 44
+
 Authors: Jeremy Grignard, Dinojan Karthigesu, Jolyanne Boivin, Axel Boucher.
 
 Go to [`ramp-worflow`](https://github.com/paris-saclay-cds/ramp-workflow) for more help on the [RAMP](http:www.ramp.studio) ecosystem.
